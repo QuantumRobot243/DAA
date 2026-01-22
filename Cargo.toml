@@ -11,4 +11,8 @@ path = "src/bruteforce.rs"
 name = "tsp"
 path = "src/tsp.rs"
 
+[[bin]]
+name = "smmultiplication"
+path = "src/Strassen’sMatrixMultiplication.rs"
+
 [dependencies]
