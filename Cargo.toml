@@ -1,6 +1,14 @@
 [package]
-name = "DAA"
+name = "daa"
 version = "0.1.0"
 edition = "2021"
+
+[[bin]]
+name = "bruteforce"
+path = "src/bruteforce.rs"
+
+[[bin]]
+name = "tsp"
+path = "src/tsp.rs"
 
 [dependencies]
