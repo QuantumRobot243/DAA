@@ -15,4 +15,8 @@ path = "src/tsp.rs"
 name = "smmultiplication"
 path = "src/Strassen’sMatrixMultiplication.rs"
 
+[[bin]]
+name = "FractionalKnapsack"
+path = "src/FractionalKnapsack.rs"
+
 [dependencies]
